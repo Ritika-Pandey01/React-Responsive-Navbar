@@ -1,0 +1,44 @@
+nav{
+   
+    color: white;
+    top: 0;
+    position: sticky;
+    padding: 20px;
+    justify-content:space-between;
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(to right top, #c4fcef, #a8efef, #90e1f0, #7fd2f1, #7ac1f0, #75c0f3, #6fc0f5, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+   
+}
+
+li button{
+  border: none;
+  border-radius: 4px;
+ background-color: transparent;
+  color: white;
+  padding: 10px 6px;
+  margin: 10px;
+  
+}
+
+li a {
+   
+    color: white;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    font-family:'Ubuntu', sans-serif;
+    letter-spacing: 1px;
+
+  }
+button:hover{
+  border: 1px solid white;
+
+}
+ 
+ .logo{
+  width:30%
+  
+ }
+
